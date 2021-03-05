@@ -1,4 +1,4 @@
-#Đáp án bài tập thống kê sinh học K63CNKHTN kì 6 2020-2021
+# Đáp án bài tập thống kê sinh học K63CNKHTN kì 6 2020-2021
 
 Các bạn có thể ấn vào biểu tưởng Code màu xanh lá cây, chọn download zip sau đó về giải nén ra
 
